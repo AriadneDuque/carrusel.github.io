@@ -35,7 +35,9 @@ Se suceden imágenes del mismo tema mediante botones que permiten avanzar y retr
 ### 2.2. Esquema de navegación
 El trabajo se compone de varios fotogramas que se pasan con los botones para avanzar y retroceder
 ![Captura](https://github.com/user-attachments/assets/81cf3178-73d2-4bc6-a8b8-4c1ebde3c828)
+
 ![Captura](https://github.com/user-attachments/assets/b63dd6b5-2ec1-4ca1-9a12-bbb734944d2e)
+
 ![Captura](https://github.com/user-attachments/assets/fc4d5264-0617-47f5-bfd3-d59be7baae11)
 
 ## 3. Metodología
