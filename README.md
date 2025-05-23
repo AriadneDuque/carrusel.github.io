@@ -26,8 +26,8 @@ Medios:
 Github
 
 ## 2. Memoria del proyecto
-### 2.1. Storyboard:
-Se suceden imágenes del mismo tema mediante botones que permiten avanzar y retroceder entre las mismas.
+### 2.1. Storyboard:Se suceden imágenes del mismo tema mediante botones que permiten avanzar y retroceder entre las mismas.
+
 ![Captura](https://github.com/user-attachments/assets/a2ffbabd-4bd7-42ba-9d6a-6daa3d155daf)
 
 ![Captura](https://github.com/user-attachments/assets/6344878d-e87c-4518-ab45-c5c9d13ff3b6)
